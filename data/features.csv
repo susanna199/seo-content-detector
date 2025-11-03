@@ -1,0 +1,82 @@
+url,word_count,sentence_count,flesch_reading_ease,top_keywords
+https://www.cm-alliance.com/cybersecurity-blog,0,0,0.0,
+https://www.varonis.com/blog/cybersecurity-tips,1543,80,37.52221860823073,access data security app information
+https://www.cisecurity.org/insights/blog/11-cyber-defense-tips-to-stay-secure-at-work-and-home,940,61,53.283796325878626,protect use device devices data
+https://www.cisa.gov/topics/cybersecurity-best-practices,486,22,8.946060606060655,cybersecurity cyber practices offers organizations
+https://www.qnbtrust.bank/Resources/Learning-Center/Blog/7-cyber-security-tips,0,0,0.0,
+https://nordlayer.com/learn/network-security/basics/,1045,88,24.043693181818213,network security monitoring devices networks
+https://www.fortinet.com/resources/cyberglossary/what-is-network-security,3375,178,16.718678458694484,network security cloud access organizations
+https://www.cisco.com/site/us/en/learn/topics/security/what-is-network-security.html,34,2,12.915294117647079,infrastructure secure applications networking protection
+https://www.trendmicro.com/en_us/what-is/network-security/network-security-basics.html,5,2,-35.11999999999995,security network wide websites website
+https://digitdefence.com/blog/fundamentals-of-network-security-in-computer-networks,17,1,65.16823529411766,news inbox directly offers website
+https://guardiandigital.com/resources/blog/guide-on-phishing,910,67,56.14597632888979,phishing attacks security email just
+https://cofense.com/blog,36,3,65.94343137254904,use website websites web ways
+https://www.connectwise.com/blog/phishing-prevention-tips,0,0,0.0,
+https://www.phriendlyphishing.com/blog,12,1,72.61545454545457,phishing news stay industry websites
+https://inspiredelearning.com/blog/phishing-protection-checklist/,917,51,29.71772638826525,phishing attacks links emails information
+https://en.wikipedia.org/wiki/SD-WAN,170,8,-1.9444117647058476,wan sd end performance defined
+https://www.cisco.com/site/us/en/learn/topics/networking/what-is-sd-wan.html,359,23,26.562561331066348,wan network enterprise sd security
+https://www.fortinet.com/resources/cyberglossary/sd-wan-explained,2078,120,7.7786383526383815,wan sd network security performance
+https://www.hpe.com/us/en/what-is/sd-wan.html,0,0,0.0,
+https://remotedesktop.google.com/,0,0,0.0,
+https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c,0,0,0.0,
+https://support.apple.com/guide/remote-desktop/welcome/mac,0,0,0.0,
+https://en.wikipedia.org/wiki/Remote_desktop_software,73,4,10.99892123287674,remote allow computer device control
+https://www.cloudflare.com/learning/access-management/what-is-ztna/,0,0,0.0,
+https://www.fortinet.com/solutions/enterprise-midsize-business/network-access/application-access,1650,76,29.47838806817694,ztna fortinet gartner universal access
+https://www.microsoft.com/en-us/security/business/security-101/what-is-zero-trust-network-access-ztna,0,0,0.0,
+https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-network-access,849,54,32.65533381712629,ztna access network remote secure
+https://www.efax.com/,1046,68,39.613237657864545,fax efax faxes online faxing
+https://sign.dropbox.com/products/dropbox-fax,436,32,58.868231725362534,fax faxes computer send receive
+https://www.fax.plus/,164,16,44.3157317073171,fax faxes faxing plus sign
+https://comfax.com/reviews/free-fax/,2593,117,55.82346840552711,fax free service faxes faxing
+https://nytlicensing.com/latest/trends/content-marketing-best-practices-2022/,1895,108,41.38219228019665,content marketing audience help brand
+https://copyblogger.com/content-marketing/,5421,267,49.640026144604604,content marketing audience podcast blog
+https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices,4242,315,54.590033227444536,content marketing just best don
+https://www.akkio.com/beginners-guide-to-machine-learning,9974,501,44.25961728855367,learning machine data ai models
+https://medium.com/@amitvsolutions/machine-learning-101-the-complete-beginners-guide-to-machine-learning-686a30cbcf6b,1591,118,40.07676923076923,data model learning machine example
+https://realpython.com/tutorials/data-science/,356,19,-28.084879679144365,2025intermediatedata sciencepython science data learning
+https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/,155,7,26.621935483871,data analysis science make decisions
+https://jakevdp.github.io/PythonDataScienceHandbook/,51,3,56.87411764705885,text content science code form
+https://www.w3schools.com/datascience/,112,10,51.51985135135138,data try rules result decisions
+https://towardsdatascience.com/machine-learning-basics-with-examples-part-1-c2d37247ec3d,0,0,0.0,
+https://www.analyticsvidhya.com/blog/2021/09/comprehensive-guide-on-machine-learning/,0,0,0.0,
+https://aws.amazon.com/what-is/deep-learning/,864,49,33.25035714285718,deep learning models ai data
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide,3075,144,55.2110148852224,search site google content page
+https://digitalmarketinginstitute.com/blog/what-is-seo,166,8,23.366079545454568,digital marketing experience course brands
+https://www.coursera.org/articles/content-strategy,1505,77,44.9220454545455,content audience strategy goals ll
+https://www.youtube.com/creators/how-things-work/content-creation-strategy/,742,38,59.31767626613704,tips videos channel youtube analytics
+https://digitalmarketinginstitute.com/blog/what-are-the-most-effective-digital-marketing-strategies,46,3,44.14123188405799,digital content impact brands created
+https://emotive.io/blog/11-essential-digital-marketing-tips,2057,110,44.58687902370005,marketing digital customers content online
+https://www.forbes.com/advisor/business/what-is-digital-marketing/,2492,139,37.31577899556052,marketing digital email social seo
+https://blog.hubspot.com/marketing/what-is-digital-marketing,5585,292,44.239412807781974,marketing digital content media channels
+https://www.investopedia.com/terms/s/seo.asp,0,0,0.0,
+https://mailchimp.com/marketing-glossary/content-marketing/,1201,70,51.74850000000001,content marketing stage best sales
+https://sproutsocial.com/insights/social-media-marketing-strategy/,6409,310,40.352044653928516,social media sprout marketing brand
+https://www.shopify.com/blog/ecommerce-seo-beginners-guide,850,51,52.93196365471985,seo ecommerce store search results
+https://www.dollardays.com/?srsltid=AfmBOopXjdOu2Kwq6fwYN9FPfB19MorSOf5UyS0EisxFSAzOm8wbl8KF,0,0,0.0,
+https://www.woot.com/,24,4,109.09500000000001,deals inbox let don work
+https://www.shopmissa.com/?srsltid=AfmBOoqr-F6zzKR-vGPqksAZp1wW4niXlINdN2eAREiMVNtHez_0-gAB,18,2,43.93691176470591,don websites website web ways
+https://martie.com/?srsltid=AfmBOoqTEC0QXQ3xYEvV1VWP6OX6EZboYFZDuiiilhyLfDJNbuXIZ97r,9,1,8.365000000000009,download try experience web ways
+https://www.dealsofamerica.com/,1785,127,60.324130925507916,info view designed set line
+https://www.dealnews.com/,1379,114,69.47332115919019,amazon buy code shop savings
+https://viewyourdeal.com/,0,0,0.0,
+https://americasstealsanddeals.com/,60,5,91.72500000000002,product know brands websites website
+https://www.pricegrabber.com/,32,5,55.952500000000015,deals shop hand inbox address
+https://www.wikihow.com/Make-Money-Online,242,19,55.84345557851242,money online article make websites
+https://en.wikipedia.org/wiki/Search_engine_optimization,122,6,17.029655737704957,search engine traffic seo engines
+https://simple.wikipedia.org/wiki/Search_engine_optimization,58,6,44.796810344827605,search engine results term optimization
+https://en.wikipedia.org/wiki/Content_marketing,158,8,13.654113924050648,content form marketing short online
+https://simple.wikipedia.org/wiki/Content_marketing,50,4,51.17433333333338,type marketing content trying sharing
+https://en.wikipedia.org/wiki/Machine_learning,0,0,0.0,
+https://simple.wikipedia.org/wiki/Machine_learning,0,0,0.0,
+https://en.wikipedia.org/wiki/Artificial_intelligence,294,24,-13.298121248499399,ai intelligence goals artificial google
+https://simple.wikipedia.org/wiki/Artificial_intelligence,63,6,-25.351249999999965,artificial intelligence detection image machine
+https://en.wikipedia.org/wiki/Digital_marketing,118,7,-36.81480225988699,marketing digital mobile media methods
+https://simple.wikipedia.org/wiki/Digital_marketing,87,6,19.02784482758622,marketing digital channels traditional online
+https://www.reuters.com/technology/artificial-intelligence/,0,0,0.0,
+https://www.cnbc.com/artificial-intelligence/,0,0,0.0,
+https://www.bbc.com/news/topics/c404v061z99t,0,0,0.0,
+https://www.theguardian.com/technology/artificialintelligenceai,0,0,0.0,
+https://apnews.com/hub/artificial-intelligence,25,2,58.78750000000002,approach video company new web
+https://abcnews.go.com/alerts/technology,0,0,0.0,
