@@ -42,16 +42,16 @@ This project implements a complete data science pipeline for SEO content analysi
 ### Installation
 
 **Clone repository**
-```bash
+
 git clone https://github.com/yourusername/seo-content-detector
 cd seo-content-detector
 
 **Install dependencies**
-```bash
+
 pip install -r requirements.txt
 
 **Run Jupyter notebook**
-```bash
+
 jupyter notebook notebooks/seo_pipeline.ipynb
 
 ---
