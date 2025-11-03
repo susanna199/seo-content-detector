@@ -1,5 +1,3 @@
-# seo-content-detector
-
 # SEO Content Quality & Duplicate Detector
 
 An end-to-end machine learning pipeline that extracts content from HTML documents, analyzes SEO quality metrics, detects duplicate content using TF-IDF and cosine similarity, and predicts content quality using classification models. The system processes a dataset with 81 websites, identifies quality issues, and flags near-duplicate pages for SEO optimization.
